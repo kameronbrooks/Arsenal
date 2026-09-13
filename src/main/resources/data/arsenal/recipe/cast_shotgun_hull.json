@@ -1,0 +1,14 @@
+{
+  "type": "arsenal:casting",
+  "metal": {
+    "item": "minecraft:iron_ingot"
+  },
+  "mold": {
+    "item": "arsenal:casing_mold"
+  },
+  "result": {
+    "id": "arsenal:shotgun_hull",
+    "count": 4
+  },
+  "cookTime": 160
+}

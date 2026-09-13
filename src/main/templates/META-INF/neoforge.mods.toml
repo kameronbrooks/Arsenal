@@ -1,0 +1,26 @@
+modLoader = "javafml"
+loaderVersion = "${loader_version_range}"
+license = "${mod_license}"
+
+[[mods]]
+modId = "${mod_id}"
+version = "${mod_version}"
+displayName = "${mod_name}"
+authors = "kameron"
+description = '''
+Arsenal adds early-1900s firearms to Minecraft: a revolver, a bolt-action rifle, a pump shotgun, and a submachine gun, each with its own caliber, magazine, and reload. Ammunition is manufactured from metals — cast casings, bullets, and shot at the Munitions Bench, then assemble live cartridges at the crafting table.
+'''
+
+[[dependencies.${mod_id}]]
+modId = "neoforge"
+type = "required"
+versionRange = "[${neo_version},)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.${mod_id}]]
+modId = "minecraft"
+type = "required"
+versionRange = "${minecraft_version_range}"
+ordering = "NONE"
+side = "BOTH"

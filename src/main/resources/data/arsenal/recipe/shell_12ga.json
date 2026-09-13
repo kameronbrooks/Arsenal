@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "arsenal:shotgun_hull"
+    },
+    {
+      "item": "arsenal:lead_shot"
+    },
+    {
+      "item": "arsenal:lead_shot"
+    },
+    {
+      "item": "arsenal:lead_shot"
+    },
+    {
+      "item": "arsenal:lead_shot"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    }
+  ],
+  "result": {
+    "id": "arsenal:shell_12ga",
+    "count": 2
+  }
+}

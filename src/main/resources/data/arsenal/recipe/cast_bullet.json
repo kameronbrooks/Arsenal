@@ -1,0 +1,14 @@
+{
+  "type": "arsenal:casting",
+  "metal": {
+    "item": "minecraft:iron_ingot"
+  },
+  "mold": {
+    "item": "arsenal:bullet_mold"
+  },
+  "result": {
+    "id": "arsenal:bullet",
+    "count": 4
+  },
+  "cookTime": 140
+}

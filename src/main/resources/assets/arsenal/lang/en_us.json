@@ -1,0 +1,32 @@
+{
+  "itemGroup.arsenal": "Arsenal",
+
+  "block.arsenal.munitions_bench": "Munitions Bench",
+  "container.arsenal.munitions_bench": "Munitions Bench",
+
+  "item.arsenal.revolver": "Revolver",
+  "item.arsenal.bolt_action_rifle": "Bolt-Action Rifle",
+  "item.arsenal.pump_shotgun": "Pump Shotgun",
+  "item.arsenal.submachine_gun": "Submachine Gun",
+
+  "item.arsenal.cartridge_38": ".38 Special Cartridge",
+  "item.arsenal.cartridge_45": ".45 ACP Cartridge",
+  "item.arsenal.cartridge_3006": ".30-06 Cartridge",
+  "item.arsenal.shell_12ga": "12 Gauge Shell",
+
+  "item.arsenal.brass_casing": "Brass Casing",
+  "item.arsenal.shotgun_hull": "Shotgun Hull",
+  "item.arsenal.bullet": "Bullet",
+  "item.arsenal.lead_shot": "Lead Shot",
+
+  "item.arsenal.casing_mold": "Casing Mold",
+  "item.arsenal.bullet_mold": "Bullet Mold",
+  "item.arsenal.shot_mold": "Shot Mold",
+
+  "tooltip.arsenal.rounds": "Rounds: %1$s / %2$s",
+  "tooltip.arsenal.ammo": "Ammo: %1$s",
+  "tooltip.arsenal.reload_hint": "Right-click to fire · Sneak + right-click to reload",
+
+  "death.attack.bullet": "%1$s was gunned down",
+  "death.attack.bullet.player": "%1$s was gunned down by %2$s"
+}

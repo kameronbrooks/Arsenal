@@ -1,0 +1,6 @@
+{
+  "parent": "arsenal:item/gun",
+  "textures": {
+    "layer0": "arsenal:item/bolt_action_rifle"
+  }
+}

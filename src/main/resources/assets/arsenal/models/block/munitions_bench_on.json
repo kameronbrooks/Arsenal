@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "arsenal:block/munitions_bench_top",
+    "side": "arsenal:block/munitions_bench_side",
+    "front": "arsenal:block/munitions_bench_front_on"
+  }
+}

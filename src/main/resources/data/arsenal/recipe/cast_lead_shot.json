@@ -1,0 +1,14 @@
+{
+  "type": "arsenal:casting",
+  "metal": {
+    "item": "minecraft:iron_ingot"
+  },
+  "mold": {
+    "item": "arsenal:shot_mold"
+  },
+  "result": {
+    "id": "arsenal:lead_shot",
+    "count": 6
+  },
+  "cookTime": 120
+}
