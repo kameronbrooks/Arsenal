@@ -101,4 +101,7 @@ src/main/resources/
   read as gunfire; swap in custom `.ogg`s for real gunshots.
 - Possible additions: iron sights / scope zoom, bullet penetration vs. armor, tracer rendering,
   more calibers (e.g. a lever-action .44), and a JEI plugin for the casting recipes.
-```
+
+## License
+
+Arsenal is released under the [MIT License](LICENSE) — free to use, modify, and redistribute.
